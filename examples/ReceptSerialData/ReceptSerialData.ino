@@ -11,7 +11,7 @@ void setup(){
     pinMode(pin_led,OUTPUT);
 }
 void loop(){
-    if(getMesage(str,150)){
+    if(getMesage(msg,150)){
         int estado;
         char value[26];
         if(loadCommand(msg,"setLed","d",&estado)){// msg must be "setLed:1 "
