@@ -1,0 +1,16 @@
+###########################################
+# Syntax Coloring Map For Thread_ESP32-library
+###########################################
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+DataProcess	KEYWORD1
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+loadCommand	    KEYWORD2
+nextDouble	    KEYWORD2
+nextInt	    KEYWORD2
+
