@@ -3,7 +3,7 @@
 
 bool getMesage(char *msg,int size);
 int pin_led = 13;
-char str[151];
+char msg[151];
 
 void setup(){
     //Serial.begin(115200);// for ESP32 and ESP12
