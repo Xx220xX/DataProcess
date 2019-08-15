@@ -1,7 +1,7 @@
 # ThreadEsp32
 * biblioteca para facilitar o uso de task no Esp32
 ------
-!! esp32 restarts when watchdog detects a task that is in a very large loop
+:warning: esp32 restarts when watchdog detects a task that is in a very large loop
 ------
 ## how install 
 - download zip 
